@@ -79,7 +79,7 @@ public class Player : MonoBehaviour {
 			
 			if (timeCountDownFire <= 0) {
 				animator.SetBool("IsIdle", true);
-				animator.SetBool("IsWait", false);
+				animator.SetBool("IsWaitn22", false);
 			}
 		}
 	}
